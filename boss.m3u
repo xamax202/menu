@@ -1,0 +1,13 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-name="凤凰中文 " tvg-id="" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="港澳台频道",凤凰中文(1080)
+http://23.145.4.229:8080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-id="" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png" group-title="港澳台频道",凤凰资讯(1080)
+http://23.145.4.229:8080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-id="" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰香港.png" group-title="港澳台频道",凤凰香港(1080)
+http://23.145.4.229:8080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-id="" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="港澳台频道",翡翠台
+http://23.145.4.229:8080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
+#EXTINF:-1 tvg-name="中天新闻台" tvg-id="" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天新闻.png" group-title="港澳台频道",中天新闻台
+https://dddd.dracwoundshop.eu.org/ztxw.m3u8#https://dddd.dracwoundshop.eu.org/1ztxw.m3u8
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/澳视澳门.png" group-title="港澳台频道",澳视澳门
+http://23.145.4.229:8080/mytv.php?url=http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8
